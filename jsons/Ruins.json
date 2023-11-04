@@ -10,7 +10,7 @@
 "name": "discover cultural artifacts",
 "notification": "We have discovered cultural artifacts in the ruins! (+150 culture)",
 "weight": 4
-"uniques": ["Gain [150] [Culture]", "Only available <before founding a Pantheon>", "Only available <after [30] turns>"], 
+"uniques": ["Gain [150] [Culture]", "Only available <before founding a Pantheon>", "Only available <after [20] turns>"], 
 "color": "#cf8ff7" 
 },
 { "name": "squatters willing to assist you", 
