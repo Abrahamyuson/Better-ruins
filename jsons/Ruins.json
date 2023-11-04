@@ -3,14 +3,14 @@
 "name": "discover cultural signs",
 "notification": "We have discovered cultural signs in the ruins! (+1000 culture)",
 "weight": 4
-"uniques": ["Gain [1000] [Culture]", "Only available <before founding a Pantheon>"], 
+"uniques": ["Gain [50] [Culture]", "Only available <before founding a Pantheon>"], 
 "color": "#cf8ff7" 
 },
 { 
 "name": "discover cultural artifacts",
 "notification": "We have discovered cultural artifacts in the ruins! (+1500 culture)",
 "weight": 4
-"uniques": ["Gain [1500] [Culture]", "Only available <before founding a Pantheon>", "Only available <after [30] turns>"], 
+"uniques": ["Gain [150] [Culture]", "Only available <before founding a Pantheon>", "Only available <after [30] turns>"], 
 "color": "#cf8ff7" 
 },
 { "name": "squatters willing to assist you", 
@@ -34,7 +34,7 @@
 "name": "your exploring unit receives training", 
 "notification": "An ancient tribe trained us in their ways of combat!", 
 "weight": 4
-"uniques": ["This Unit gains [3000] XP", "Only available <after [30] turns>"] 
+"uniques": ["This Unit gains [50] XP", "Only available <after [30] turns>"] 
 }, 
 { 
 "name": "survivors (adds population to a city)", 
@@ -61,7 +61,7 @@
 "name": "advanced weaponry for your explorer", 
 "notification": "Our unit finds advanced weaponry hidden in the ruins!", 
 "weight": 3
-"uniques": ["This Unit upgrades for free including special upgrades", "This Unit gains [1000] XP"] 
+"uniques": ["This Unit upgrades for free including special upgrades"], 
 }, 
 { 
 "name": "reveal nearby Barbarian camps", 
