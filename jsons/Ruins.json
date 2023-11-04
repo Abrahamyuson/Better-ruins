@@ -1,14 +1,14 @@
 [ 
 { 
 "name": "discover cultural signs",
-"notification": "We have discovered cultural signs in the ruins! (+1000 culture)",
+"notification": "We have discovered cultural signs in the ruins! (+50 culture)",
 "weight": 4
 "uniques": ["Gain [50] [Culture]", "Only available <before founding a Pantheon>"], 
 "color": "#cf8ff7" 
 },
 { 
 "name": "discover cultural artifacts",
-"notification": "We have discovered cultural artifacts in the ruins! (+1500 culture)",
+"notification": "We have discovered cultural artifacts in the ruins! (+150 culture)",
 "weight": 4
 "uniques": ["Gain [150] [Culture]", "Only available <before founding a Pantheon>", "Only available <after [30] turns>"], 
 "color": "#cf8ff7" 
